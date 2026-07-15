@@ -138,3 +138,6 @@ D:\cloc\cloc-2.08.exe <Input source folder path>
 
 4 Use Matlab script CalMetrics.mlx to calculate 'Afferent Coupling' 'Efferent Coupling'	'Instability'	'Lack of Cohesion of Methods'	'Tight Class Cohesion'	'Loose Class Cohesion'	'Cyclomatic Complexity'	'Depth Inheritance Tree'	'Class Length'	'Number of attributes/fields'	'Number of methods'	'Method/Function length'. See the paper for metrics.
 
+# For overall evaluation and agent evaluation
+
+To compare the collected and preprocessed data, use Test.mlx. Each section in it can output a figure to show the results (see comments in the file for help).
