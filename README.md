@@ -140,4 +140,4 @@ D:\cloc\cloc-2.08.exe <Input source folder path>
 
 # For overall evaluation and agent evaluation
 
-To compare the collected and preprocessed data, use Test.mlx. Each section in it can output a figure to show the results (see comments in the file for help).
+To compare the collected and preprocessed data, use Test.mlx. Each section in it can output a figure to show the results (see comments in the file for help). You should execute the first section first, and then others.
